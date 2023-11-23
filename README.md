@@ -5,6 +5,7 @@ Large Language Models studies
 ### Prompt Enginnering
 * https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
 * https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
+* https://learnprompting.org/docs/intro
 ### Generative AI
 * https://github.com/microsoft/generative-ai-for-beginners
 ### LLMs
