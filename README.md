@@ -10,3 +10,4 @@ Large Language Models studies
 * https://github.com/microsoft/generative-ai-for-beginners
 ### LLMs
 * https://github.com/louisfb01/start-llms
+* https://bbycroft.net/llm
