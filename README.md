@@ -11,3 +11,4 @@ Large Language Models studies
 ### LLMs
 * https://github.com/louisfb01/start-llms
 * https://bbycroft.net/llm
+* https://aman.ai/primers/ai/LLM/
